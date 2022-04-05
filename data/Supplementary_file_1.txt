@@ -1,0 +1,364 @@
+Family	Subject Type	Visit ID	Subject Code	Indiv Code	Antibiotics since last visit	Hospitalization since last visit	Index	Batch No	Colonization status	Ec CPE type	Kp CPE type	Other CPE Type	Genus-level Shannon diversity	Age	Gender	Race
+fam0457	Index	V01	T	fam0457-T	Yes	Still in hospital	MHH535	5	CPE_positive	KPC	NA	NA	0.878390712	61	Male	Chinese
+fam0457	Index	V02	T	fam0457-T	Yes	Still in hospital	MHH549	5	CPE_positive	NA	NA	KPC	1.895496457	61	Male	Chinese
+fam0457	Index	V03	T	fam0457-T	Yes	Still in hospital	MHH559	5	CPE_positive	NA	NA	KPC	1.258106273	61	Male	Chinese
+fam0457	Index	V04	T	fam0457-T	Yes	Still in hospital	MHH572	5	CPE_positive	NA	NA	KPC	1.414279069	61	Male	Chinese
+fam0457	Index	V05	T	fam0457-T	Yes	Still in hospital	MHH602	5	CPE_positive	NA	NA	KPC	1.941104209	61	Male	Chinese
+fam0457	Index	V06	T	fam0457-T	Yes	Still in hospital	MHH627	5	CPE_positive	NA	NA	KPC	1.373005018	61	Male	Chinese
+fam0457	Index	V07	T	fam0457-T	Yes	Still in hospital	MHS143	7	CPE_negative_1	NA	NA	NA	0.964113517	61	Male	Chinese
+fam0457	Family	V05	F1	fam0457-F1	No	No	MHH594	5	Family_member	NA	NA	NA	1.957835831	59	Female	Chinese
+fam0457	Family	V06	F1	fam0457-F1	No	No	MHS119	7	Family_member	NA	NA	NA	2.949129006	59	Female	Chinese
+fam0457	Family	V07	F1	fam0457-F1	No	No	MHS137	7	Family_member	NA	NA	NA	2.815167448	59	Female	Chinese
+fam0457	Family	V05	F2	fam0457-F2	No	No	MHH595	5	Family_member	NA	NA	NA	2.056043946	28	Female	Chinese
+fam0457	Family	V06	F2	fam0457-F2	No	No	MHS120	7	Family_member	NA	NA	NA	2.322798546	28	Female	Chinese
+fam0457	Family	V07	F2	fam0457-F2	No	No	MHS138	7	Family_member	NA	NA	NA	1.721652716	28	Female	Chinese
+fam0500	Index	V00	T	fam0500-T	Yes	Yes	MBH038	1	CPE_positive	NA	NA	NA	2.41484774	52	Male	Indian
+fam0501	Index	V01	T	fam0501-T	Data not collected	Data not collected	MBH039	1	CPE_positive	NA	NA	OXA-48	0.996025332	58	Male	Chinese
+fam0501	Index	V02	T	fam0501-T	Data not collected	Data not collected	MBH040	1	CPE_positive	NA	NA	OXA-48	0.956544982	58	Male	Chinese
+fam0501	Index	V03	T	fam0501-T	Data not collected	Data not collected	MBH041	1	CPE_positive	OXA-48	NA	OXA-48	2.302575632	58	Male	Chinese
+fam0501	Index	V04	T	fam0501-T	No	Still in hospital	MBH047	1	CPE_positive	OXA-48	NA	OXA-48	2.579375768	58	Male	Chinese
+fam0501	Index	V05	T	fam0501-T	No	Still in hospital	MBH073	1	CPE_positive	NA	OXA-48	NA	2.347070576	58	Male	Chinese
+fam0501	Index	V06	T	fam0501-T	No	No	MBS1120	2	CPE_positive	NA	OXA-48	NA	1.300293201	58	Male	Chinese
+fam0501	Index	V07	T	fam0501-T	Data not collected	Data not collected	MBS1167	2	CPE_negative_1	NA	NA	NA	2.435876758	58	Male	Chinese
+fam0501	Index	V08	T	fam0501-T	Data not collected	Data not collected	MHH255	3	CPE_negative_1	NA	NA	NA	1.820601674	58	Male	Chinese
+fam0501	Index	V10	T	fam0501-T	No	No	MHH517	5	CPE_negative_2	NA	NA	NA	1.801325388	58	Male	Chinese
+fam0501	Index	V11	T	fam0501-T	No	No	MHH600	5	CPE_negative_2	NA	NA	NA	2.039402884	58	Male	Chinese
+fam0501	Index	V12	T	fam0501-T	No	No	MHS134	7	CPE_negative_2	NA	NA	NA	1.380991592	58	Male	Chinese
+fam0502	Index	V00	T	fam0502-T	Yes	Yes	MBH042	1	CPE_positive	IMP	NA	NA	1.551232475	63	Male	Chinese
+fam0502	Index	V01	T	fam0502-T	Data not collected	Data not collected	MBH044	1	CPE_positive	IMP	NA	NA	2.056435257	63	Male	Chinese
+fam0502	Index	V02	T	fam0502-T	Data not collected	Data not collected	MBH051	1	CPE_positive	IMP	NA	NA	1.969040233	63	Male	Chinese
+fam0502	Index	V03	T	fam0502-T	Data not collected	Data not collected	MBH057	1	CPE_positive	IMP	NA	NA	2.01666674	63	Male	Chinese
+fam0502	Index	V04	T	fam0502-T	No	No	MBH063	1	CPE_positive	IMP	NA	NA	1.959774771	63	Male	Chinese
+fam0502	Index	V05	T	fam0502-T	No	No	MBH085	1	CPE_positive	IMP	NA	NA	2.29460446	63	Male	Chinese
+fam0502	Index	V06	T	fam0502-T	No	No	MBS1140	2	CPE_negative_1	NA	NA	NA	2.552943642	63	Male	Chinese
+fam0502	Index	V07	T	fam0502-T	Data not collected	Data not collected	MBS1173	2	CPE_negative_1	NA	NA	NA	2.122034392	63	Male	Chinese
+fam0502	Index	V08	T	fam0502-T	No	No	MHH334	4	CPE_negative_2	NA	NA	NA	1.470929929	63	Male	Chinese
+fam0502	Index	V09	T	fam0502-T	No	No	MHH365	4	CPE_negative_2	NA	NA	NA	2.220313536	63	Male	Chinese
+fam0502	Index	V10	T	fam0502-T	No	No	MHH547	5	CPE_negative_2	NA	NA	NA	2.026965303	63	Male	Chinese
+fam0502	Index	V11	T	fam0502-T	No	No	MHH612	5	CPE_negative_2	NA	NA	NA	2.67154013	63	Male	Chinese
+fam0502	Family	V00	F1	fam0502-F1	No	No	MBH043	1	Family_member	NA	NA	NA	1.83596937	64	Female	Chinese
+fam0502	Family	V02	F1	fam0502-F1	Data not collected	Data not collected	MBH052	1	Family_member	NA	NA	NA	1.946622714	64	Female	Chinese
+fam0502	Family	V03	F1	fam0502-F1	Data not collected	Data not collected	MBH059	1	Family_member	NA	NA	NA	0.985024459	64	Female	Chinese
+fam0502	Family	V04	F1	fam0502-F1	No	No	MBH060	1	Family_member	NA	NA	NA	2.276120962	64	Female	Chinese
+fam0502	Family	V05	F1	fam0502-F1	No	No	MBH089	1	Family_member	NA	NA	NA	2.237494513	64	Female	Chinese
+fam0502	Family	V06	F1	fam0502-F1	No	No	MBS1141	2	Family_member	NA	NA	NA	1.684357735	64	Female	Chinese
+fam0502	Family	V07	F1	fam0502-F1	Data not collected	Data not collected	MBS1174	2	Family_member	NA	NA	NA	2.022364309	64	Female	Chinese
+fam0502	Family	V08	F1	fam0502-F1	No	No	MHH336	4	Family_member	NA	NA	NA	2.307616412	64	Female	Chinese
+fam0502	Family	V09	F1	fam0502-F1	No	No	MHH366	4	Family_member	NA	NA	NA	1.389167069	64	Female	Chinese
+fam0502	Family	V10	F1	fam0502-F1	No	No	MHH552	5	Family_member	NA	NA	NA	1.512003473	64	Female	Chinese
+fam0502	Family	V11	F1	fam0502-F1	No	No	MHH616	5	Family_member	NA	NA	NA	1.627483519	64	Female	Chinese
+fam0504	Index	V00	T	fam0504-T	Yes	No	MBH045	1	CPE_positive	OXA-48	OXA-48	NA	1.938249046	75	Male	Chinese
+fam0504	Index	V01	T	fam0504-T	Data not collected	Data not collected	MBH048	1	CPE_positive	OXA-48	NA	NA	1.876576141	75	Male	Chinese
+fam0504	Index	V02	T	fam0504-T	Data not collected	Data not collected	MBH058	1	CPE_positive	OXA-48	OXA-48	NA	1.951832829	75	Male	Chinese
+fam0504	Index	V03	T	fam0504-T	Data not collected	Data not collected	MBH065	1	CPE_positive	OXA-48	NA	NA	1.936469737	75	Male	Chinese
+fam0504	Index	V04	T	fam0504-T	No	Still in hospital	MBH072	1	CPE_positive	OXA-48	NA	NA	1.523302478	75	Male	Chinese
+fam0504	Index	V05	T	fam0504-T	Yes	Yes	MBS1117	2	CPE_negative_0	NA	NA	NA	1.507301679	75	Male	Chinese
+fam0504	Index	V06	T	fam0504-T	Yes	Yes	MBS1155	2	CPE_negative_1	NA	NA	NA	1.871779616	75	Male	Chinese
+fam0504	Index	V07	T	fam0504-T	Data not collected	Data not collected	MHH262	3	CPE_negative_2	NA	NA	NA	1.734375218	75	Male	Chinese
+fam0504	Index	V08	T	fam0504-T	No	No	MHH345	4	CPE_negative_2	NA	NA	NA	2.189937536	75	Male	Chinese
+fam0504	Index	V09	T	fam0504-T	No	No	MHH368	4	CPE_negative_2	NA	NA	NA	2.117287246	75	Male	Chinese
+fam0504	Family	V00	F1	fam0504-F1	No	Yes	MBH046	1	Family_member	NA	NA	NA	2.36802052	72	Female	Chinese
+fam0504	Family	V01	F1	fam0504-F1	Data not collected	Data not collected	MBH049	1	Family_member	NA	NA	NA	1.931865182	72	Female	Chinese
+fam0504	Family	V02	F1	fam0504-F1	Data not collected	Data not collected	MBH054	1	Family_member	NA	NA	NA	1.687596514	72	Female	Chinese
+fam0504	Family	V03	F1	fam0504-F1	Data not collected	Data not collected	MBH061	1	Family_member	NA	NA	NA	1.786872879	72	Female	Chinese
+fam0504	Family	V04	F1	fam0504-F1	No	No	MBH068	1	Family_member	NA	NA	NA	1.842559737	72	Female	Chinese
+fam0504	Family	V05	F1	fam0504-F1	No	No	MBH095	1	Family_member	NA	NA	NA	2.153949204	72	Female	Chinese
+fam0504	Family	V06	F1	fam0504-F1	Yes	No	MBS1149	2	Family_member	NA	NA	NA	2.177738155	72	Female	Chinese
+fam0504	Family	V07	F1	fam0504-F1	Data not collected	Data not collected	MHH261	3	Family_member	NA	NA	NA	1.863608493	72	Female	Chinese
+fam0504	Family	V08	F1	fam0504-F1	No	No	MHH346	4	Family_member	NA	NA	NA	2.283791639	72	Female	Chinese
+fam0504	Family	V09	F1	fam0504-F1	No	No	MHH370	4	Family_member	NA	NA	NA	1.888225804	72	Female	Chinese
+fam0504	Family	V10	F1	fam0504-F1	No	No	MHH563	5	Family_member	NA	NA	NA	2.281267469	72	Female	Chinese
+fam0504	Family	V01	F2	fam0504-F2	Data not collected	Data not collected	MBH053	1	Family_member	NA	NA	NA	1.89551289	48	Female	Chinese
+fam0504	Family	V02	F2	fam0504-F2	Data not collected	Data not collected	MBH055	1	Family_member	NA	NA	NA	1.737766572	48	Female	Chinese
+fam0504	Family	V03	F2	fam0504-F2	Data not collected	Data not collected	MBH062	1	Family_member	NA	NA	NA	1.579578537	48	Female	Chinese
+fam0504	Family	V04	F2	fam0504-F2	No	No	MBH069	1	Family_member	NA	NA	NA	2.196691872	48	Female	Chinese
+fam0504	Family	V05	F2	fam0504-F2	No	No	MBS1116	2	Family_member	NA	NA	NA	2.125605262	48	Female	Chinese
+fam0504	Family	V06	F2	fam0504-F2	No	No	MBS1150	2	Family_member	NA	NA	NA	1.908624872	48	Female	Chinese
+fam0504	Family	V07	F2	fam0504-F2	Data not collected	Data not collected	MHH258	3	Family_member	NA	NA	NA	2.387672465	48	Female	Chinese
+fam0504	Family	V08	F2	fam0504-F2	No	No	MHH347	4	Family_member	NA	NA	NA	2.117799973	48	Female	Chinese
+fam0504	Family	V09	F2	fam0504-F2	No	No	MHH372	4	Family_member	NA	NA	NA	2.089496666	48	Female	Chinese
+fam0504	Family	V10	F2	fam0504-F2	No	No	MHH564	5	Family_member	NA	NA	NA	2.022066594	48	Female	Chinese
+fam0504	Family	V01	F3	fam0504-F3	Data not collected	Data not collected	MBH050	1	Family_member	NA	NA	NA	1.46173021	47	Male	Chinese
+fam0504	Family	V02	F3	fam0504-F3	Data not collected	Data not collected	MBH056	1	Family_member	NA	NA	NA	1.70806364	47	Male	Chinese
+fam0504	Family	V03	F3	fam0504-F3	Data not collected	Data not collected	MBH066	1	Family_member	NA	NA	NA	1.379072843	47	Male	Chinese
+fam0504	Family	V04	F3	fam0504-F3	Yes	No	MBH070	1	Family_member	NA	NA	NA	1.422891029	47	Male	Chinese
+fam0504	Family	V05	F3	fam0504-F3	No	No	MBH094	1	Family_member	NA	NA	NA	1.991713257	47	Male	Chinese
+fam0504	Family	V06	F3	fam0504-F3	No	No	MBS1151	2	Family_member	NA	NA	NA	2.34923085	47	Male	Chinese
+fam0504	Family	V07	F3	fam0504-F3	Data not collected	Data not collected	MHH259	3	Family_member	NA	NA	NA	2.573862602	47	Male	Chinese
+fam0504	Family	V08	F3	fam0504-F3	No	No	MHH348	4	Family_member	NA	NA	NA	2.232788604	47	Male	Chinese
+fam0504	Family	V09	F3	fam0504-F3	Yes	No	MHH371	4	Family_member	NA	NA	NA	1.995832744	47	Male	Chinese
+fam0504	Family	V10	F3	fam0504-F3	No	No	MHH565	5	Family_member	NA	NA	NA	2.675988145	47	Male	Chinese
+fam0505	Index	V00	T	fam0505-T	Yes	No	MBH064	1	CPE_negative_0	NA	NA	NA	1.426926907	69	Male	Chinese
+fam0505	Index	V01	T	fam0505-T	Data not collected	Data not collected	MBH071	1	CPE_negative_0	NA	NA	NA	1.675276903	69	Male	Chinese
+fam0505	Index	V02	T	fam0505-T	Data not collected	Data not collected	MBH075	1	CPE_negative_0	NA	NA	NA	1.597360161	69	Male	Chinese
+fam0505	Index	V03	T	fam0505-T	Data not collected	Data not collected	MBH082	1	CPE_positive	NDM	NDM	NA	2.00817321	69	Male	Chinese
+fam0505	Index	V04	T	fam0505-T	No	No	MBH086	1	CPE_positive	NDM	NDM	NA	1.917304387	69	Male	Chinese
+fam0505	Index	V05	T	fam0505-T	No	No	MBS1138	2	CPE_positive	NDM	NA	NA	0.857469792	69	Male	Chinese
+fam0505	Index	V06	T	fam0505-T	No	No	MHH247	3	CPE_positive	NDM	NDM	NA	1.973725909	69	Male	Chinese
+fam0505	Index	V07	T	fam0505-T	No	No	MHH328	4	CPE_positive	NDM	NDM	NA	2.336026259	69	Male	Chinese
+fam0505	Index	V08	T	fam0505-T	No	No	MHH363	4	CPE_positive	NDM	NDM	NA	2.520786703	69	Male	Chinese
+fam0505	Index	V09	T	fam0505-T	No	No	MHH389	6	CPE_positive	NA	NDM	NA	2.13766833	69	Male	Chinese
+fam0505	Index	V10	T	fam0505-T	Yes	Yes	MHH582	5	CPE_positive	NDM	NDM	NA	1.627458232	69	Male	Chinese
+fam0505	Index	V11	T	fam0505-T	Yes	Yes	MHH630	5	CPE_positive	OXA-48	NDM	NA	1.647617291	69	Male	Chinese
+fam0506	Index	V00	T	fam0506-T	Yes	No	MBH067	1	CPE_negative_0	NA	NA	NA	2.021010687	75	Female	Chinese
+fam0506	Index	V01	T	fam0506-T	Data not collected	Data not collected	MBH074	1	CPE_negative_0	NA	NA	NA	2.217845214	75	Female	Chinese
+fam0506	Index	V02	T	fam0506-T	Data not collected	Data not collected	MBH080	1	CPE_negative_0	NA	NA	NA	1.122484371	75	Female	Chinese
+fam0506	Index	V03	T	fam0506-T	Data not collected	Data not collected	MBH087	1	CPE_negative_0	NA	NA	NA	2.033931541	75	Female	Chinese
+fam0506	Index	V04	T	fam0506-T	No	No	MBH098	1	CPE_negative_0	NA	NA	NA	1.844226458	75	Female	Chinese
+fam0506	Index	V05	T	fam0506-T	No	No	MBS1153	2	CPE_negative_1	NA	NA	NA	2.255192629	75	Female	Chinese
+fam0506	Index	V06	T	fam0506-T	No	No	MHH254	3	CPE_negative_2	NA	NA	NA	2.052317475	75	Female	Chinese
+fam0506	Index	V07	T	fam0506-T	No	No	MHH341	4	CPE_negative_2	NA	NA	NA	1.995087934	75	Female	Chinese
+fam0506	Index	V08	T	fam0506-T	Yes	No	MHH377	4	CPE_negative_2	NA	NA	NA	1.564605841	75	Female	Chinese
+fam0506	Index	V09	T	fam0506-T	No	No	MHH390	6	CPE_negative_2	NA	NA	NA	NA	75	Female	Chinese
+fam0506	Index	V10	T	fam0506-T	No	No	MHH598	5	CPE_negative_2	NA	NA	NA	1.763171796	75	Female	Chinese
+fam0506	Index	V11	T	fam0506-T	No	No	MHS133	7	CPE_negative_2	NA	NA	NA	2.360330413	75	Female	Chinese
+fam0506	Family	V01	F1	fam0506-F1	Data not collected	Data not collected	MBH076	1	Family_member	NA	NA	NA	2.66436293	77	Male	Chinese
+fam0506	Family	V02	F1	fam0506-F1	Data not collected	Data not collected	MBH081	1	Family_member	NA	NA	NA	2.584393172	77	Male	Chinese
+fam0506	Family	V04	F1	fam0506-F1	No	No	MBS1115	2	Family_member	NA	NA	NA	2.426664141	77	Male	Chinese
+fam0506	Family	V05	F1	fam0506-F1	No	No	MBS1152	2	Family_member	NA	NA	NA	2.302576783	77	Male	Chinese
+fam0506	Family	V06	F1	fam0506-F1	No	No	MHH260	3	Family_member	NA	NA	NA	2.66332612	77	Male	Chinese
+fam0506	Family	V07	F1	fam0506-F1	No	No	MHH344	4	Family_member	NA	NA	NA	2.683924776	77	Male	Chinese
+fam0506	Family	V08	F1	fam0506-F1	No	No	MHH373	4	Family_member	NA	NA	NA	2.63262099	77	Male	Chinese
+fam0506	Family	V09	F1	fam0506-F1	No	No	MHH392	6	Family_member	NA	NA	NA	2.381218383	77	Male	Chinese
+fam0506	Family	V10	F1	fam0506-F1	No	No	MHH596	5	Family_member	NA	NA	NA	2.579592535	77	Male	Chinese
+fam0506	Family	V11	F1	fam0506-F1	No	No	MHS136	7	Family_member	NA	NA	NA	1.764713319	77	Male	Chinese
+fam0507	Index	V00	T	fam0507-T	Yes	Yes	MBH077	1	CPE_positive	OXA-48	NA	IMP	2.039570704	58	Male	Chinese
+fam0507	Index	V01	T	fam0507-T	Data not collected	Data not collected	MBH079	1	CPE_positive	OXA-48	NA	IMP	1.284368189	58	Male	Chinese
+fam0507	Index	V02	T	fam0507-T	Data not collected	Data not collected	MBH088	1	CPE_positive	OXA-48	OXA-48	NA	2.40692882	58	Male	Chinese
+fam0507	Index	V03	T	fam0507-T	Data not collected	Data not collected	MBH096	1	CPE_positive	NA	OXA-48	NA	2.52574892	58	Male	Chinese
+fam0507	Index	V04	T	fam0507-T	No	No	MBS1122	2	CPE_negative_0	NA	NA	NA	2.669270591	58	Male	Chinese
+fam0507	Index	V05	T	fam0507-T	No	No	MBS1157	2	CPE_negative_1	NA	NA	NA	2.417573397	58	Male	Chinese
+fam0507	Index	V06	T	fam0507-T	No	No	MHH267	8	CPE_negative_2	NA	NA	NA	2.276191355	58	Male	Chinese
+fam0507	Index	V07	T	fam0507-T	No	No	MHH355	4	CPE_negative_2	NA	NA	NA	2.276267916	58	Male	Chinese
+fam0507	Index	V08	T	fam0507-T	No	No	MHH382	6	CPE_negative_2	NA	NA	NA	1.996630865	58	Male	Chinese
+fam0507	Index	V09	T	fam0507-T	No	No	MHH391	6	CPE_negative_2	NA	NA	NA	2.168988317	58	Male	Chinese
+fam0507	Index	V10	T	fam0507-T	No	No	MHH599	5	CPE_negative_2	NA	NA	NA	2.098830858	58	Male	Chinese
+fam0507	Index	V11	T	fam0507-T	No	No	MHS140	7	CPE_negative_2	NA	NA	NA	2.63236708	58	Male	Chinese
+fam0507	Family	V00	F1	fam0507-F1	No	No	MBH078	1	Family_member	NA	NA	NA	2.37837684	52	Female	Chinese
+fam0507	Family	V01	F1	fam0507-F1	Data not collected	Data not collected	MBH083	1	Family_member	NA	NA	NA	1.818219985	52	Female	Chinese
+fam0507	Family	V02	F1	fam0507-F1	Data not collected	Data not collected	MBH090	1	Family_member	NA	NA	NA	2.191422819	52	Female	Chinese
+fam0507	Family	V03	F1	fam0507-F1	Data not collected	Data not collected	MBH092	1	Family_member	NA	NA	NA	2.484784853	52	Female	Chinese
+fam0507	Family	V04	F1	fam0507-F1	No	No	MBS1123	2	Family_member	NA	NA	NA	2.034035781	52	Female	Chinese
+fam0507	Family	V05	F1	fam0507-F1	No	No	MBS1159	2	Family_member	NA	NA	NA	2.29488855	52	Female	Chinese
+fam0507	Family	V06	F1	fam0507-F1	No	No	MHH265	8	Family_member	NA	NA	NA	2.174072747	52	Female	Chinese
+fam0507	Family	V07	F1	fam0507-F1	No	No	MHH356	4	Family_member	NA	NA	NA	2.685961793	52	Female	Chinese
+fam0507	Family	V08	F1	fam0507-F1	No	No	MHH380	6	Family_member	NA	NA	NA	2.457540735	52	Female	Chinese
+fam0507	Family	V09	F1	fam0507-F1	No	No	MHH393	6	Family_member	NA	NA	NA	2.415373759	52	Female	Chinese
+fam0507	Family	V10	F1	fam0507-F1	No	No	MHH597	5	Family_member	NA	NA	NA	2.772885404	52	Female	Chinese
+fam0507	Family	V11	F1	fam0507-F1	No	No	MHS141	7	Family_member	NA	NA	NA	2.57775295	52	Female	Chinese
+fam0507	Family	V01	F2	fam0507-F2	Data not collected	Data not collected	MBH084	1	Family_member	NA	NA	NA	1.951846476	26	Male	Chinese
+fam0507	Family	V02	F2	fam0507-F2	Data not collected	Data not collected	MBH091	1	Family_member	NA	NA	NA	2.532445764	26	Male	Chinese
+fam0507	Family	V03	F2	fam0507-F2	Data not collected	Data not collected	MBH093	1	Family_member	NA	NA	NA	1.839932071	26	Male	Chinese
+fam0507	Family	V04	F2	fam0507-F2	No	No	MBS1124	2	Family_member	NA	NA	NA	2.799176959	26	Male	Chinese
+fam0507	Family	V05	F2	fam0507-F2	No	No	MBS1160	2	Family_member	NA	NA	NA	2.599897663	26	Male	Chinese
+fam0507	Family	V06	F2	fam0507-F2	No	No	MHH266	8	Family_member	NA	NA	NA	3.019258377	26	Male	Chinese
+fam0507	Family	V07	F2	fam0507-F2	No	No	MHH357	4	Family_member	NA	NA	NA	2.903305805	26	Male	Chinese
+fam0507	Family	V08	F2	fam0507-F2	No	No	MHH381	6	Family_member	NA	NA	NA	2.67622846	26	Male	Chinese
+fam0507	Family	V09	F2	fam0507-F2	No	No	MHH394	6	Family_member	NA	NA	NA	2.4827926	26	Male	Chinese
+fam0507	Family	V10	F2	fam0507-F2	No	No	MHH607	5	Family_member	NA	NA	NA	2.492869965	26	Male	Chinese
+fam0507	Family	V11	F2	fam0507-F2	No	No	MHS142	7	Family_member	NA	NA	NA	1.877438643	26	Male	Chinese
+fam0508	Index	V00	T	fam0508-T	Yes	Yes	MBH097	1	CPE_positive	OXA-48	OXA-48	NA	1.712365517	70	Female	Indian
+fam0508	Index	V01	T	fam0508-T	Data not collected	Data not collected	MBS1118	2	CPE_positive	OXA-48	OXA-48	NA	1.606991331	70	Female	Indian
+fam0508	Index	V02	T	fam0508-T	Data not collected	Data not collected	MBS1126	2	CPE_positive	OXA-48	OXA-48	NA	1.83963644	70	Female	Indian
+fam0508	Index	V03	T	fam0508-T	Data not collected	Data not collected	MBS1133	2	CPE_positive	OXA-48	IMI	NA	1.878939707	70	Female	Indian
+fam0508	Index	V04	T	fam0508-T	Yes	Still in hospital	MBS1145	2	CPE_positive	NA	OXA-48	NA	0.915917048	70	Female	Indian
+fam0509	Index	V00	T	fam0509-T	Yes	Yes	MBS1119	2	CPE_positive	NA	KPC	NA	2.166242296	39	Male	Chinese
+fam0509	Index	V01	T	fam0509-T	Data not collected	Data not collected	MBS1127	2	CPE_negative_0	NA	NA	NA	2.598288332	39	Male	Chinese
+fam0509	Index	V02	T	fam0509-T	Data not collected	Data not collected	MBS1131	2	CPE_negative_0	NA	NA	NA	2.537217038	39	Male	Chinese
+fam0509	Index	V04	T	fam0509-T	No	No	MBS1156	2	CPE_negative_0	NA	NA	NA	2.508825758	39	Male	Chinese
+fam0509	Index	V06	T	fam0509-T	No	No	MHH360	4	CPE_negative_2	NA	NA	NA	2.168920463	39	Male	Chinese
+fam0509	Index	V08	T	fam0509-T	Yes	Yes	MHH536	5	CPE_negative_2	NA	NA	NA	2.123672713	39	Male	Chinese
+fam0509	Index	V09	T	fam0509-T	No	No	MHH570	5	CPE_negative_2	NA	NA	NA	2.315604137	39	Male	Chinese
+fam0509	Index	V10	T	fam0509-T	No	No	MHH620	5	CPE_negative_2	NA	NA	NA	2.702625484	39	Male	Chinese
+fam0509	Family	V00	F1	fam0509-F1	No	Yes	MBS1121	2	Family_member	NA	NA	NA	2.416654947	66	Male	Chinese
+fam0509	Family	V01	F1	fam0509-F1	Data not collected	Data not collected	MBS1128	2	Family_member	NA	NA	NA	2.262281727	66	Male	Chinese
+fam0509	Family	V02	F1	fam0509-F1	Data not collected	Data not collected	MBS1135	2	Family_member	NA	NA	NA	2.185476948	66	Male	Chinese
+fam0509	Family	V03	F1	fam0509-F1	Data not collected	Data not collected	MBS1142	2	Family_member	NA	NA	NA	2.525208077	66	Male	Chinese
+fam0509	Family	V05	F1	fam0509-F1	No	No	MHH256	3	Family_member	NA	NA	NA	2.370204807	66	Male	Chinese
+fam0509	Family	V06	F1	fam0509-F1	No	No	MHH358	4	Family_member	NA	NA	NA	2.237672032	66	Male	Chinese
+fam0509	Family	V07	F1	fam0509-F1	No	No	MHH376	4	Family_member	NA	NA	NA	2.402911316	66	Male	Chinese
+fam0509	Family	V08	F1	fam0509-F1	No	No	MHH395	6	Family_member	NA	NA	NA	2.43817388	66	Male	Chinese
+fam0509	Family	V09	F1	fam0509-F1	No	No	MHH573	5	Family_member	NA	NA	NA	2.354315656	66	Male	Chinese
+fam0509	Family	V10	F1	fam0509-F1	No	No	MHH622	5	Family_member	NA	NA	NA	2.159378208	66	Male	Chinese
+fam0509	Family	V04	F2	fam0509-F2	No	No	MBS1163	2	Family_member	NA	NA	NA	2.51055226	38	Female	Chinese
+fam0509	Family	V05	F2	fam0509-F2	No	No	MHH257	3	Family_member	NA	NA	NA	2.135301949	38	Female	Chinese
+fam0509	Family	V06	F2	fam0509-F2	No	No	MHH359	4	Family_member	NA	NA	NA	2.477642229	38	Female	Chinese
+fam0509	Family	V07	F2	fam0509-F2	No	No	MHH375	4	Family_member	NA	NA	NA	2.299489066	38	Female	Chinese
+fam0509	Family	V08	F2	fam0509-F2	No	No	MHH396	6	Family_member	NA	NA	NA	2.551571922	38	Female	Chinese
+fam0509	Family	V09	F2	fam0509-F2	No	No	MHH574	5	Family_member	NA	NA	NA	2.55828423	38	Female	Chinese
+fam0509	Family	V10	F2	fam0509-F2	No	No	MHH623	5	Family_member	NA	NA	NA	2.401680582	38	Female	Chinese
+fam0510	Index	V00	T	fam0510-T	Yes	Yes	MBS1125	2	CPE_positive	NA	OXA-48	NA	1.741707655	51	Male	Malay
+fam0510	Index	V02	T	fam0510-T	Data not collected	Data not collected	MBS1139	2	CPE_positive	NA	OXA-48	NA	1.447748018	51	Male	Malay
+fam0510	Index	V03	T	fam0510-T	Data not collected	Data not collected	MBS1154	2	CPE_positive	NA	OXA-48	NA	1.790817672	51	Male	Malay
+fam0510	Index	V04	T	fam0510-T	No	No	MBS1166	2	CPE_negative_0	NA	NA	NA	1.933348213	51	Male	Malay
+fam0510	Index	V05	T	fam0510-T	No	No	MHH273	8	CPE_negative_1	NA	NA	NA	2.337725787	51	Male	Malay
+fam0510	Index	V06	T	fam0510-T	No	No	MHH350	4	CPE_negative_2	NA	NA	NA	2.211770637	51	Male	Malay
+fam0510	Index	V07	T	fam0510-T	No	No	MHH387	6	CPE_negative_2	NA	NA	NA	2.169928589	51	Male	Malay
+fam0510	Index	V08	T	fam0510-T	No	No	MHH526	5	CPE_negative_2	NA	NA	NA	2.687881636	51	Male	Malay
+fam0510	Index	V10	T	fam0510-T	No	No	MHH629	5	CPE_negative_2	NA	NA	NA	2.278966914	51	Male	Malay
+fam0511	Index	V00	T	fam0511-T	Yes	No	MBS1129	2	CPE_positive	KPC	KPC	KPC	1.606916286	36	Female	Chinese
+fam0511	Index	V01	T	fam0511-T	Data not collected	Data not collected	MBS1132	2	CPE_positive	KPC	NA	KPC	1.628386782	36	Female	Chinese
+fam0511	Index	V02	T	fam0511-T	Data not collected	Data not collected	MBS1148	2	CPE_positive	KPC	KPC	NA	1.027595527	36	Female	Chinese
+fam0511	Index	V03	T	fam0511-T	Data not collected	Data not collected	MBS1165	2	CPE_negative_0	NA	NA	NA	1.217249304	36	Female	Chinese
+fam0511	Index	V04	T	fam0511-T	Yes	Yes	MBS1171	2	CPE_negative_0	NA	NA	NA	1.416731786	36	Female	Chinese
+fam0511	Index	V06	T	fam0511-T	No	Yes	MHH361	4	CPE_positive	KPC	KPC	NA	2.051099996	36	Female	Chinese
+fam0511	Index	V07	T	fam0511-T	No	No	MHH385	6	CPE_negative_1	NA	NA	NA	2.381444558	36	Female	Chinese
+fam0511	Index	V08	T	fam0511-T	No	No	MHH555	5	CPE_negative_2	NA	NA	NA	1.682989492	36	Female	Chinese
+fam0511	Index	V09	T	fam0511-T	No	No	MHH586	5	CPE_negative_2	NA	NA	NA	2.167106191	36	Female	Chinese
+fam0511	Index	V10	T	fam0511-T	No	No	MHS123	7	CPE_negative_2	NA	NA	NA	1.997655127	36	Female	Chinese
+fam0511	Family	V01	F1	fam0511-F1	Data not collected	Data not collected	MBS1136	2	Family_member	NA	NA	NA	2.35405997	66	Female	Chinese
+fam0511	Family	V02	F1	fam0511-F1	Data not collected	Data not collected	MBS1143	2	Family_member	NA	NA	NA	2.410919144	66	Female	Chinese
+fam0511	Family	V03	F1	fam0511-F1	Data not collected	Data not collected	MBS1161	2	Family_member	NA	NA	NA	2.373069184	66	Female	Chinese
+fam0511	Family	V04	F1	fam0511-F1	No	No	MBS1168	2	Family_member	NA	NA	NA	2.61537078	66	Female	Chinese
+fam0511	Family	V05	F1	fam0511-F1	No	No	MHH263	3	Family_member	NA	NA	NA	2.47696779	66	Female	Chinese
+fam0511	Family	V06	F1	fam0511-F1	No	No	MHH351	4	Family_member	NA	NA	NA	2.58990521	66	Female	Chinese
+fam0511	Family	V07	F1	fam0511-F1	No	No	MHH383	6	Family_member	NA	NA	NA	2.263906167	66	Female	Chinese
+fam0511	Family	V08	F1	fam0511-F1	No	No	MHH553	5	Family_member	NA	NA	NA	2.313276543	66	Female	Chinese
+fam0511	Family	V09	F1	fam0511-F1	No	No	MHH589	5	Family_member	NA	NA	NA	1.77808299	66	Female	Chinese
+fam0511	Family	V10	F1	fam0511-F1	No	No	MHH624	5	Family_member	NA	NA	NA	2.43951728	66	Female	Chinese
+fam0511	Family	V01	F2	fam0511-F2	Data not collected	Data not collected	MBS1137	2	Family_member	NA	NA	NA	2.069659428	69	Male	Chinese
+fam0511	Family	V02	F2	fam0511-F2	Data not collected	Data not collected	MBS1144	2	Family_member	NA	NA	NA	2.01045572	69	Male	Chinese
+fam0511	Family	V03	F2	fam0511-F2	Data not collected	Data not collected	MBS1162	2	Family_member	NA	NA	NA	1.994036013	69	Male	Chinese
+fam0511	Family	V04	F2	fam0511-F2	No	No	MBS1169	2	Family_member	NA	NA	NA	2.321286084	69	Male	Chinese
+fam0511	Family	V05	F2	fam0511-F2	No	No	MHH264	3	Family_member	NA	NA	NA	2.268735437	69	Male	Chinese
+fam0511	Family	V06	F2	fam0511-F2	No	No	MHH352	4	Family_member	NA	NA	NA	2.495825961	69	Male	Chinese
+fam0511	Family	V07	F2	fam0511-F2	No	No	MHH384	6	Family_member	NA	NA	NA	1.822379367	69	Male	Chinese
+fam0511	Family	V08	F2	fam0511-F2	No	No	MHH554	5	Family_member	NA	NA	NA	1.836398503	69	Male	Chinese
+fam0511	Family	V09	F2	fam0511-F2	No	No	MHH590	5	Family_member	NA	NA	NA	2.342795536	69	Male	Chinese
+fam0511	Family	V10	F2	fam0511-F2	No	No	MHS124	7	Family_member	NA	NA	NA	2.314138975	69	Male	Chinese
+fam0512	Index	V01	T	fam0512-T	Data not collected	Data not collected	MBS1130	2	CPE_positive	NA	KPC	NA	1.114471862	39	Male	Indian
+fam0512	Index	V02	T	fam0512-T	Data not collected	Data not collected	MBS1146	2	CPE_positive	NA	KPC	NA	1.609735558	39	Male	Indian
+fam0512	Index	V03	T	fam0512-T	Data not collected	Data not collected	MBS1164	2	CPE_positive	NA	KPC	NA	0.034289889	39	Male	Indian
+fam0512	Index	V04	T	fam0512-T	Yes	Still in hospital	MBS1172	2	CPE_positive	NA	KPC	NA	0.259984855	39	Male	Indian
+fam0512	Index	V05	T	fam0512-T	Yes	Yes	MHH329	4	CPE_positive	NA	KPC	NA	0.028372197	39	Male	Indian
+fam0512	Index	V06	T	fam0512-T	Yes	Yes	MHH362	4	CPE_positive	KPC	KPC	NA	1.304005709	39	Male	Indian
+fam0512	Index	V07	T	fam0512-T	No	No	MHH386	6	CPE_positive	KPC	KPC	NA	1.457755059	39	Male	Indian
+fam0512	Index	V08	T	fam0512-T	No	No	MHH537	5	CPE_positive	KPC	KPC	NA	1.590770949	39	Male	Indian
+fam0512	Index	V09	T	fam0512-T	Yes	Yes	MHH579	5	CPE_positive	NA	KPC	NA	0.746309668	39	Male	Indian
+fam0513	Index	V01	T	fam0513-T	Data not collected	Data not collected	MBS1134	2	CPE_positive	KPC	NA	KPC	1.240243123	71	Female	Indian
+fam0513	Index	V02	T	fam0513-T	Data not collected	Data not collected	MBS1147	2	CPE_positive	KPC	NA	NA	1.56056349	71	Female	Indian
+fam0513	Index	V03	T	fam0513-T	Data not collected	Data not collected	MBS1158	2	CPE_positive	KPC	NA	KPC	1.711317934	71	Female	Indian
+fam0513	Index	V04	T	fam0513-T	No	No	MBS1170	2	CPE_positive	KPC	NA	NA	2.240510563	71	Female	Indian
+fam0513	Index	V05	T	fam0513-T	Yes	Yes	MHH271	8	CPE_positive	KPC	NA	NA	1.742358176	71	Female	Indian
+fam0513	Index	V06	T	fam0513-T	No	No	MHH364	4	CPE_positive	NA	NA	KPC	2.04788991	71	Female	Indian
+fam0513	Index	V07	T	fam0513-T	No	No	MHH388	6	CPE_negative_1	NA	NA	NA	2.077029546	71	Female	Indian
+fam0513	Index	V08	T	fam0513-T	No	No	MHH519	5	CPE_negative_1	NA	NA	NA	2.038908669	71	Female	Indian
+fam0513	Index	V09	T	fam0513-T	No	Yes	MHH578	5	CPE_negative_2	NA	NA	NA	2.203726393	71	Female	Indian
+fam0513	Index	V10	T	fam0513-T	No	No	MHS118	7	CPE_negative_2	NA	NA	NA	2.374392658	71	Female	Indian
+fam0517	Index	V00	T	fam0517-T	No	No	MHH248	3	CPE_negative_0	NA	NA	NA	1.280795223	49	Female	Others
+fam0517	Index	V01	T	fam0517-T	Data not collected	Data not collected	MHH249	3	CPE_negative_0	NA	NA	NA	0.703974291	49	Female	Others
+fam0517	Index	V02	T	fam0517-T	Data not collected	Data not collected	MHH253	3	CPE_negative_0	NA	NA	NA	0.96507279	49	Female	Others
+fam0517	Index	V03	T	fam0517-T	Yes	Still in hospital	MHH268	8	CPE_negative_0	NA	NA	NA	1.253561653	49	Female	Others
+fam0524	Index	V00	T	fam0524-T	No	No	MHH250	3	CPE_negative_0	NA	NA	NA	1.617937543	71	Female	Chinese
+fam0524	Index	V01	T	fam0524-T	Data not collected	Data not collected	MHH252	3	CPE_negative_0	NA	NA	NA	1.50667394	71	Female	Chinese
+fam0524	Index	V02	T	fam0524-T	No	Still in hospital	MHH269	8	CPE_negative_0	NA	NA	NA	1.658146237	71	Female	Chinese
+fam0524	Index	V03	T	fam0524-T	No	Still in hospital	MHH326	4	CPE_negative_0	NA	NA	NA	1.961035028	71	Female	Chinese
+fam0525	Index	V00	T	fam0525-T	Yes	No	MHH251	3	CPE_positive	NDM	NDM	NA	1.494908182	55	Male	Malay
+fam0525	Index	V01	T	fam0525-T	No	No	MHH272	8	CPE_positive	NA	NDM	NA	1.955303651	55	Male	Malay
+fam0525	Index	V02	T	fam0525-T	No	No	MHH327	4	CPE_positive	NA	NDM	NA	1.081153943	55	Male	Malay
+fam0525	Index	V03	T	fam0525-T	No	No	MHH333	4	CPE_positive	NA	NDM	NA	2.130600189	55	Male	Malay
+fam0525	Index	V04	T	fam0525-T	No	No	MHH340	4	CPE_positive	NA	KPC	NA	2.193221742	55	Male	Malay
+fam0525	Index	V05	T	fam0525-T	No	No	MHH367	4	CPE_negative_1	NA	NA	NA	1.3988963	55	Male	Malay
+fam0525	Index	V06	T	fam0525-T	No	No	MHH525	5	CPE_negative_2	NA	NA	NA	1.646089407	55	Male	Malay
+fam0525	Index	V07	T	fam0525-T	No	No	MHH560	5	CPE_negative_2	NA	NA	NA	1.956538238	55	Male	Malay
+fam0525	Index	V08	T	fam0525-T	No	No	MHH591	5	CPE_negative_2	NA	NA	NA	2.660223196	55	Male	Malay
+fam0525	Index	V09	T	fam0525-T	No	No	MHS126	7	CPE_negative_2	NA	NA	NA	2.054144072	55	Male	Malay
+fam0525	Family	V03	F1	fam0525-F1	No	No	MHH335	4	Family_member	NA	NA	NA	2.430481131	40	Female	Others
+fam0525	Family	V04	F1	fam0525-F1	No	No	MHH343	4	Family_member	NA	NA	NA	2.076681552	40	Female	Others
+fam0525	Family	V05	F1	fam0525-F1	No	No	MHH369	4	Family_member	NA	NA	NA	2.296043448	40	Female	Others
+fam0525	Family	V06	F1	fam0525-F1	Yes	No	MHH397	6	Family_member	NA	NA	NA	1.519874636	40	Female	Others
+fam0525	Family	V07	F1	fam0525-F1	No	No	MHH566	5	Family_member	NA	NA	NA	2.419558977	40	Female	Others
+fam0525	Family	V08	F1	fam0525-F1	No	No	MHH592	5	Family_member	NA	NA	NA	2.180558068	40	Female	Others
+fam0525	Family	V09	F1	fam0525-F1	No	No	MHH621	5	Family_member	NA	NA	NA	2.621865371	40	Female	Others
+fam0526	Index	V01	T	fam0526-T	Yes	Still in hospital	MHH331	4	CPE_negative_0	NA	NA	NA	1.644470024	81	Male	Chinese
+fam0526	Index	V02	T	fam0526-T	Yes	Still in hospital	MHH332	4	CPE_negative_0	NA	NA	NA	1.155375501	81	Male	Chinese
+fam0526	Index	V04	T	fam0526-T	No	Still in hospital	MHH354	4	CPE_negative_0	NA	NA	NA	1.952085082	81	Male	Chinese
+fam0526	Index	V05	T	fam0526-T	Yes	Still in hospital	MHH379	4	CPE_negative_1	NA	NA	NA	1.618502598	81	Male	Chinese
+fam0526	Index	V06	T	fam0526-T	No	Still in hospital	MHH524	5	CPE_negative_2	NA	NA	NA	1.353848524	81	Male	Chinese
+fam0526	Index	V07	T	fam0526-T	Yes	Still in hospital	MHH575	5	CPE_negative_2	NA	NA	NA	0.722592207	81	Male	Chinese
+fam0526	Index	V08	T	fam0526-T	No	No	MHH608	5	CPE_negative_2	NA	NA	NA	1.238506351	81	Male	Chinese
+fam0526	Index	V09	T	fam0526-T	No	No	MHS122	7	CPE_negative_2	NA	NA	NA	2.031392735	81	Male	Chinese
+fam0528	Index	V00	T	fam0528-T	Yes	Yes	MHH270	8	CPE_positive	NA	NA	KPC	2.157504232	48	Male	Chinese
+fam0528	Index	V01	T	fam0528-T	Yes	Still in hospital	MHH330	4	CPE_positive	NA	NA	KPC	1.975087393	48	Male	Chinese
+fam0528	Index	V02	T	fam0528-T	Yes	Still in hospital	MHH337	4	CPE_positive	NA	NA	KPC	1.363046726	48	Male	Chinese
+fam0528	Index	V03	T	fam0528-T	Yes	Still in hospital	MHH342	4	CPE_positive	NA	NA	KPC	2.152189863	48	Male	Chinese
+fam0528	Index	V04	T	fam0528-T	Yes	Still in hospital	MHH349	4	CPE_positive	NA	NA	KPC	2.386261061	48	Male	Chinese
+fam0528	Index	V05	T	fam0528-T	No	Still in hospital	MHH378	4	CPE_negative_0	NA	NA	NA	0.876072709	48	Male	Chinese
+fam0528	Index	V06	T	fam0528-T	No	Still in hospital	MHH523	5	CPE_negative_2	NA	NA	NA	1.671201198	48	Male	Chinese
+fam0528	Index	V08	T	fam0528-T	No	Still in hospital	MHH610	5	CPE_negative_2	NA	NA	NA	2.164188781	48	Male	Chinese
+fam0528	Index	V09	T	fam0528-T	Yes	Still in hospital	MHH628	5	CPE_negative_2	NA	NA	NA	1.817815983	48	Male	Chinese
+fam0528	Family	V02	F1	fam0528-F1	Yes	No	MHH338	4	Family_member	NA	NA	NA	1.680938489	47	Female	Chinese
+fam0528	Family	V03	F1	fam0528-F1	Yes	No	MHH339	4	Family_member	NA	NA	NA	1.96146276	47	Female	Chinese
+fam0528	Family	V04	F1	fam0528-F1	Yes	No	MHH353	4	Family_member	NA	NA	NA	1.804802328	47	Female	Chinese
+fam0528	Family	V05	F1	fam0528-F1	No	No	MHH374	4	Family_member	NA	NA	NA	1.418749751	47	Female	Chinese
+fam0528	Family	V06	F1	fam0528-F1	Yes	No	MHH529	5	Family_member	NA	NA	NA	1.379791628	47	Female	Chinese
+fam0528	Family	V07	F1	fam0528-F1	Yes	No	MHH576	5	Family_member	NA	NA	NA	1.303538718	47	Female	Chinese
+fam0528	Family	V08	F1	fam0528-F1	Yes	No	MHH606	5	Family_member	NA	NA	NA	2.2791983	47	Female	Chinese
+fam0528	Family	V09	F1	fam0528-F1	Yes	No	MHS121	7	Family_member	NA	NA	NA	1.946757738	47	Female	Chinese
+fam1338	Index	V00	T	fam1338-T	Yes	Yes	MHH530	5	CPE_positive	OXA-48	NA	NA	1.463277645	72	Male	Chinese
+fam1338	Index	V01	T	fam1338-T	Yes	Still in hospital	MHH541	5	CPE_positive	OXA-48	NA	NA	2.536255303	72	Male	Chinese
+fam1338	Index	V02	T	fam1338-T	No	No	MHH542	5	CPE_positive	OXA-48	OXA-48	NA	1.90043475	72	Male	Chinese
+fam1338	Index	V03	T	fam1338-T	No	No	MHH562	5	CPE_positive	NA	NA	OXA-48	2.80934523	72	Male	Chinese
+fam1338	Index	V04	T	fam1338-T	No	No	MHH569	5	CPE_negative_0	NA	NA	NA	2.178400931	72	Male	Chinese
+fam1338	Index	V05	T	fam1338-T	No	Yes	MHH604	5	CPE_negative_0	NA	NA	NA	2.383041775	72	Male	Chinese
+fam1338	Index	V06	T	fam1338-T	Yes	Yes	MHH625	5	CPE_positive	NA	OXA-48	NA	2.13242139	72	Male	Chinese
+fam1385	Index	V00	T	fam1385-T	Yes	No	MHH539	5	CPE_positive	OXA-48	NA	NA	2.081995885	71	Male	Chinese
+fam1385	Index	V01	T	fam1385-T	Yes	No	MHH550	5	CPE_negative_0	NA	NA	NA	2.603069324	71	Male	Chinese
+fam1385	Index	V02	T	fam1385-T	Yes	No	MHH558	5	CPE_positive	OXA-48	NA	NA	2.205102721	71	Male	Chinese
+fam1385	Index	V03	T	fam1385-T	No	No	MHH568	5	CPE_positive	OXA-48	OXA-48	NA	2.192072164	71	Male	Chinese
+fam1385	Index	V04	T	fam1385-T	No	No	MHH577	5	CPE_positive	OXA-48	NA	NA	2.251006966	71	Male	Chinese
+fam1385	Index	V05	T	fam1385-T	No	No	MHH605	5	CPE_negative_0	NA	NA	NA	2.066961535	71	Male	Chinese
+fam1385	Index	V06	T	fam1385-T	Yes	Yes	MHS125	7	CPE_positive	OXA-48	OXA-48	NA	1.804842697	71	Male	Chinese
+fam1385	Index	V07	T	fam1385-T	Yes	Yes	MHS139	7	CPE_negative_0	NA	NA	NA	1.708896392	71	Male	Chinese
+fam1663	Index	V00	T	fam1663-T	Yes	No	MHH528	5	CPE_positive	OXA-48	NA	NA	1.624636465	50	Female	Chinese
+fam1663	Index	V01	T	fam1663-T	Yes	No	MHH532	5	CPE_positive	OXA-48	NA	NA	1.693172809	50	Female	Chinese
+fam1663	Index	V02	T	fam1663-T	Yes	No	MHH548	5	CPE_positive	OXA-48	NA	NA	1.655207234	50	Female	Chinese
+fam1663	Index	V03	T	fam1663-T	Yes	No	MHH557	5	CPE_negative_0	NA	NA	NA	1.584142367	50	Female	Chinese
+fam1663	Index	V04	T	fam1663-T	Yes	Yes	MHH571	5	CPE_positive	OXA-48	NA	NA	2.196494027	50	Female	Chinese
+fam1663	Index	V05	T	fam1663-T	Yes	No	MHH603	5	CPE_positive	OXA-48	NA	NA	1.929670663	50	Female	Chinese
+fam1663	Index	V06	T	fam1663-T	Yes	No	MHH626	5	CPE_positive	OXA-48	NA	NA	2.146471713	50	Female	Chinese
+fam1663	Index	V07	T	fam1663-T	Yes	No	MHS135	7	CPE_positive	OXA-48	NA	NA	1.276506786	50	Female	Chinese
+fam1664	Index	V00	T	fam1664-T	Yes	Yes	MHH515	5	CPE_positive	OXA-48	NA	NA	2.25096888	61	Female	Others
+fam1664	Index	V01	T	fam1664-T	No	No	MHH518	5	CPE_positive	OXA-48	NA	NA	2.076633423	61	Female	Others
+fam1664	Index	V02	T	fam1664-T	No	No	MHH531	5	CPE_positive	OXA-48	NA	NA	2.145406628	61	Female	Others
+fam1664	Index	V03	T	fam1664-T	No	No	MHH546	5	CPE_positive	OXA-48	NA	NA	0.999701526	61	Female	Others
+fam1664	Index	V04	T	fam1664-T	No	No	MHH561	5	CPE_negative_0	NA	NA	NA	1.848150851	61	Female	Others
+fam1664	Index	V05	T	fam1664-T	No	No	MHH585	5	CPE_negative_1	NA	NA	NA	1.744748423	61	Female	Others
+fam1664	Index	V06	T	fam1664-T	No	No	MHH613	5	CPE_negative_2	NA	NA	NA	2.069163989	61	Female	Others
+fam1664	Index	V07	T	fam1664-T	No	No	MHS128	7	CPE_negative_2	NA	NA	NA	1.916530974	61	Female	Others
+fam1664	Family	V00	F1	fam1664-F1	No	No	MHH516	5	Family_member	NA	NA	NA	1.651101448	25	Female	Others
+fam1664	Family	V01	F1	fam1664-F1	No	No	MHH520	5	Family_member	NA	NA	NA	1.851941279	25	Female	Others
+fam1664	Family	V02	F1	fam1664-F1	Yes	No	MHH534	5	Family_member	NA	NA	NA	1.883034878	25	Female	Others
+fam1664	Family	V03	F1	fam1664-F1	Yes	No	MHH551	5	Family_member	NA	NA	NA	1.384913443	25	Female	Others
+fam1664	Family	V04	F1	fam1664-F1	No	No	MHH567	5	Family_member	NA	NA	NA	1.668143228	25	Female	Others
+fam1664	Family	V05	F1	fam1664-F1	Yes	No	MHH588	5	Family_member	NA	NA	NA	2.00739967	25	Female	Others
+fam1664	Family	V06	F1	fam1664-F1	No	No	MHH617	5	Family_member	NA	NA	NA	1.701221285	25	Female	Others
+fam1664	Family	V07	F1	fam1664-F1	No	No	MHS132	7	Family_member	NA	NA	NA	1.85440153	25	Female	Others
+fam1665	Index	V01	T	fam1665-T	Yes	No	MHH527	5	CPE_positive	OXA-48	OXA-48	NA	1.448992484	62	Male	Malay
+fam1665	Index	V02	T	fam1665-T	Yes	No	MHH538	5	CPE_positive	OXA-48	OXA-48	NA	2.17136511	62	Male	Malay
+fam1665	Index	V03	T	fam1665-T	Yes	No	MHH544	5	CPE_positive	OXA-48	OXA-48	NA	2.437061302	62	Male	Malay
+fam1665	Index	V06	T	fam1665-T	Yes	Yes	MHH618	5	CPE_positive	OXA-48	OXA-48	NA	1.774624198	62	Male	Malay
+fam1665	Index	V07	T	fam1665-T	Yes	Yes	MHS130	7	CPE_positive	OXA-48	OXA-48	NA	1.581907465	62	Male	Malay
+fam1665	Family	V02	F1	fam1665-F1	No	No	MHH540	5	Family_member	NA	NA	NA	1.848306296	44	Female	Malay
+fam1665	Family	V03	F1	fam1665-F1	No	No	MHH545	5	Family_member	NA	NA	NA	1.836638166	44	Female	Malay
+fam1665	Family	V06	F1	fam1665-F1	No	No	MHH619	5	Family_member	NA	NA	NA	1.82199242	44	Female	Malay
+fam1665	Family	V07	F1	fam1665-F1	No	No	MHS127	7	Family_member	NA	NA	NA	2.65832876	44	Female	Malay
+fam1667	Index	V00	T	fam1667-T	Yes	Yes	MHH514	5	CPE_positive	NA	OXA-48	NA	1.963383494	60	Male	Chinese
+fam1667	Index	V01	T	fam1667-T	No	No	MHH521	5	CPE_positive	NA	OXA-48	NA	1.231692467	60	Male	Chinese
+fam1667	Index	V02	T	fam1667-T	No	No	MHH533	5	CPE_positive	NA	OXA-48	NA	1.115259485	60	Male	Chinese
+fam1667	Index	V03	T	fam1667-T	No	No	MHH543	5	CPE_positive	NA	OXA-48	NA	1.298722316	60	Male	Chinese
+fam1667	Index	V04	T	fam1667-T	No	No	MHH556	5	CPE_positive	OXA-48	OXA-48	NA	1.289824515	60	Male	Chinese
+fam1667	Index	V05	T	fam1667-T	No	No	MHH584	5	CPE_positive	OXA-48	OXA-48	NA	1.267899253	60	Male	Chinese
+fam1667	Index	V06	T	fam1667-T	Yes	No	MHH614	5	CPE_positive	NA	OXA-48	NA	1.460639392	60	Male	Chinese
+fam1667	Index	V07	T	fam1667-T	Yes	No	MHS131	7	CPE_positive	NA	OXA-48	NA	1.496716381	60	Male	Chinese
+fam1668	Index	V01	T	fam1668-T	No	No	MHH522	5	CPE_positive	OXA-48	OXA-48	NA	1.681074789	58	Female	Chinese
+fam1670	Index	V01	T	fam1670-T	Yes	Still in hospital	MHH580	5	CPE_positive	NA	NDM	NA	0.638792337	48	Male	Chinese
+fam1673	Index	V00	T	fam1673-T	Yes	Yes	MHH581	5	CPE_negative_0	NA	NA	NA	1.421947827	76	Male	Chinese
+fam1673	Index	V01	T	fam1673-T	No	Still in hospital	MHH587	5	CPE_negative_0	NA	NA	NA	2.07702922	76	Male	Chinese
+fam1673	Index	V02	T	fam1673-T	No	Still in hospital	MHH601	5	CPE_negative_0	NA	NA	NA	1.860280992	76	Male	Chinese
+fam1674	Index	V00	T	fam1674-T	Yes	Yes	MHH583	5	CPE_positive	KPC	KPC	NA	0.245367229	27	Female	Chinese
+fam1674	Index	V01	T	fam1674-T	Yes	Still in hospital	MHH593	5	CPE_positive	KPC	KPC	NA	0.52486492	27	Female	Chinese
+fam1674	Index	V02	T	fam1674-T	Yes	Still in hospital	MHH609	5	CPE_positive	KPC	KPC	NA	0.796358905	27	Female	Chinese
+fam1674	Index	V03	T	fam1674-T	Yes	Still in hospital	MHH611	5	CPE_positive	KPC	KPC	NA	0.729256321	27	Female	Chinese
+fam1674	Index	V04	T	fam1674-T	Yes	Still in hospital	MHH615	5	CPE_negative_0	NA	NA	NA	0.481405409	27	Female	Chinese
+fam1674	Index	V05	T	fam1674-T	Yes	Still in hospital	MHS129	7	CPE_negative_1	NA	NA	NA	0.960686034	27	Female	Chinese
